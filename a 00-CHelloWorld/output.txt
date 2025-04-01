@@ -1,1 +1,3 @@
+PS C:\Users\gabri\OneDrive\Escritorio\sintaxis 2> ./hello.exe
 
+Hello, World!
