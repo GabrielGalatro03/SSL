@@ -1,5 +1,5 @@
-**Mingw
+-Mingw
 
-**version de compilador 6.3.0
+-Version de compilador 6.3.0
 
-**version c11
+-Version c11
